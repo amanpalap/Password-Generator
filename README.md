@@ -1,5 +1,3 @@
-Certainly! Here's a sample `README.md` file for your Vite + React project hosted on Netlify:
-
 ---
 
 # Vite + React App
