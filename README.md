@@ -81,14 +81,6 @@ For detailed instructions, refer to the [Netlify documentation](https://docs.net
   - `main.jsx`: Entry point for the React app.
 - `public/`: Static files and assets.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to modify this template to better suit your project's needs. If you have any additional information or sections you'd like to include, let me know!
